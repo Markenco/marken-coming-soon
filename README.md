@@ -1,2 +1,2 @@
-# marken-coming-soon
-Coming Soon page for our design and marketing agency MARKEN 
+# marken consultancy
+Design and Marketing Studio
